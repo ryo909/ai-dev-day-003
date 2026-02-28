@@ -1,17 +1,20 @@
 {
-  "day": "Day001",
-  "title": "Tool title",
-  "description": "One-line description for this tool.",
-  "genre": "productivity",
-  "theme": "NeoLab",
-  "story_summary": "A compact tool created to reduce one repetitive task in daily work.",
-  "tool_name": "Tool title",
-  "core_action": "transform",
-  "twist": "One clear differentiator",
-  "one_sentence": "One-sentence description",
+  "day": "Day003",
+  "title": "Backward Milestone Mapper",
+  "description": "締切から逆算して、中間マイルストーンを自動分割する。",
+  "genre": "planning",
+  "theme": "Candy",
+  "story_summary": "期限直前の混乱を減らすため、逆算起点の設計を採用した。",
+  "tool_name": "Backward Milestone Mapper",
+  "core_action": "schedule",
+  "twist": "逆算の根拠を1行で示して計画の納得感を上げる",
+  "one_sentence": "締切から逆算した実行計画を即作成するプランニングツール。",
   "keywords": [
-    "template"
+    "planning",
+    "milestone",
+    "schedule",
+    "roadmap"
   ],
-  "repo_name": "ai-dev-day-001",
-  "pages_url": "https://USERNAME.github.io/ai-dev-day-001/"
+  "repo_name": "ai-dev-day-003",
+  "pages_url": "https://ryo909.github.io/ai-dev-day-003/"
 }
